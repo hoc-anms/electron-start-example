@@ -1,0 +1,19 @@
+{
+  "name": "electron-start-example",
+  "version": "1.0.0",
+  "description": "electronjs, nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "electron",
+    "example"
+  ],
+  "author": "hoc-anms",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}
